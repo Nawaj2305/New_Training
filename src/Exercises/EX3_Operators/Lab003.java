@@ -4,6 +4,8 @@ package Exercises.EX3_Operators;
 
 public class Lab003 {
 
+    // Arithmetic Operator
+
     public static void main(String[] args) {
         int a=10;
         int b=12;
